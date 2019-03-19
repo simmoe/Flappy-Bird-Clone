@@ -6,10 +6,10 @@
 // Class is exported (eslint flag)
 /* exported Bird */
 
+
+//THE I MAKE SOME CHANGES 
 class Bird {
   constructor() {
-    this.y = height / 2;
-    this.x = 64;
 
     this.gravity = 0.6;
     this.lift = -10;
